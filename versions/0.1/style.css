@@ -1,0 +1,4 @@
+table, td, th{
+	border: 3px solid transparent;
+	border-collapse: separate;
+}
